@@ -1,4 +1,4 @@
-uuid: ec220f5f-4ade-4baf-8b2a-064c9be369e4
+uuid: 7b3300c1-b096-4b8e-8f7b-a3706cb637fd
 langcode: en
 status: true
 dependencies:
@@ -31,6 +31,8 @@ content:
     settings:
       image_link: ''
       image_style: ''
+      image_loading:
+        attribute: lazy
     third_party_settings: {  }
     weight: 102
     region: content

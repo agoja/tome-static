@@ -1,4 +1,4 @@
-uuid: 5917ab19-8c25-4ce8-af51-978fe0443065
+uuid: 51c7037a-67e9-4e65-ad24-595b88a9b173
 langcode: en
 status: true
 dependencies:
@@ -64,6 +64,11 @@ content:
     settings:
       display_label: true
     third_party_settings: {  }
+  simple_sitemap:
+    weight: 10
+    settings: {  }
+    third_party_settings: {  }
+    region: content
   status:
     type: boolean_checkbox
     weight: 120

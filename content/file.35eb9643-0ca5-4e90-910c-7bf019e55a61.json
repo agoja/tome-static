@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "35eb9643-0ca5-4e90-910c-7bf019e55a61"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6483463c-2301-45dd-bacc-6e03bc88349e"
+        }
+    ],
+    "filename": [
+        {
+            "value": "jeremy-bezanger-71lJHZqXJ6I-unsplash.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/jeremy-bezanger-71lJHZqXJ6I-unsplash.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 804405
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-04-26T02:03:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-04-26T02:03:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":-28,\"contrast\":0,\"saturation\":-31,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":42,\"green\":23,\"blue\":0,\"focal_point\":[734,632]}"
+        }
+    ]
+}
