@@ -8,10 +8,8 @@ module:
   bookish_admin: 0
   bookish_ckeditor: 0
   bookish_components: 0
-  bookish_contact: 0
   bookish_help: 0
   bookish_image: 0
-  bookish_speed: 0
   bookish_tags: 0
   bookish_toolbar: 0
   breakpoint: 0
@@ -21,7 +19,6 @@ module:
   coffee_extras: 0
   color: 0
   config: 0
-  contact: 0
   ctools: 0
   datetime: 0
   dblog: 0
@@ -58,7 +55,6 @@ module:
   token: 0
   tome: 0
   tome_base: 0
-  tome_netlify_contact: 0
   tome_static: 0
   tome_sync: 0
   twig_tweak: 0

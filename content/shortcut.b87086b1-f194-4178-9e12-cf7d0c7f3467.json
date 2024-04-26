@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "b87086b1-f194-4178-9e12-cf7d0c7f3467"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "cc7f29da-267b-463f-8498-adb11307ae14"
+        }
+    ],
+    "title": [
+        {
+            "value": "Lunr Search"
+        }
+    ],
+    "weight": [
+        {
+            "value": 7
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin\/config\/lunr_search",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

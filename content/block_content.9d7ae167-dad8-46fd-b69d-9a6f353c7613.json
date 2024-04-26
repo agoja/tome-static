@@ -13,21 +13,16 @@
         {
             "target_id": "bookish_callout",
             "target_type": "block_content_type",
-            "target_uuid": "97183203-b073-4555-af06-b0af0e5a6983"
+            "target_uuid": "32496b1f-f390-4211-bee3-86ec56808645"
         }
     ],
     "revision_created": [
         {
-            "value": "2022-04-26T16:13:05+00:00",
+            "value": "2024-04-26T01:39:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
-    "revision_user": [
-        {
-            "target_type": "user",
-            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
-        }
-    ],
+    "revision_user": [],
     "revision_log": [],
     "status": [
         {
@@ -41,7 +36,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-26T16:13:05+00:00",
+            "value": "2024-04-26T01:39:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -62,19 +57,19 @@
     ],
     "body": [
         {
-            "value": "<h2>Welcome!<\/h2><p>Thanks for using Tome and Netlify! This template comes with <a href=\"https:\/\/github.com\/drupal-tome\/bookish\">Bookish<\/a> pre-installed, but if you want a more minimal experience you can re-install Drupal with a different profile.<\/p>",
+            "value": "<h2>Welcome!<\/h2><p>To get started, log in and click \"Help\" in the toolbar to browse documentation.<\/p>",
             "format": "callout_text",
-            "summary": ""
+            "summary": null
         }
     ],
     "field_image": [
         {
             "alt": "A bridge in front of a waterfall.",
-            "title": "",
+            "title": null,
             "width": 1920,
             "height": 1280,
             "target_type": "file",
-            "target_uuid": "c26560d2-458d-459b-af49-1ca6ec259eda"
+            "target_uuid": "4aa7fc52-5ceb-493d-9f8e-11b0d8420184"
         }
     ]
 }

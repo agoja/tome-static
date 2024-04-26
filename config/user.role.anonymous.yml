@@ -1,9 +1,8 @@
-uuid: e09af3a8-fa6c-41f1-922b-4250c9036bf5
+uuid: 6ad39a98-cb45-4720-975f-772a96f5fdbe
 langcode: en
 status: true
 dependencies:
   module:
-    - contact
     - system
 _core:
   default_config_hash: j5zLMOdJBqC0bMvSdth5UebkprJB8g_2FXHqhfpJzow
@@ -13,4 +12,3 @@ weight: 0
 is_admin: false
 permissions:
   - 'access content'
-  - 'access site-wide contact form'
